@@ -9,29 +9,22 @@
 
 <br/>
 
-
+---
 ## Install
 
 ```fish
 $ omf install funkyfish https://github.com/stantronic/funkyfish
 ```
 
-
 ## Usage
 
-```fish
-TODO
-```
-
+_Documentation coming soon..._
 
 # License
 
-[MIT][mit] © [Steven Stanton][author] et [al][contributors]
-
+[MIT][mit] © [Steven Stanton][author] 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}
+[author]:         https://github.com/stantronic
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
-
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
